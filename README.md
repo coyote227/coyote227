@@ -14,7 +14,8 @@
 
 ### 🔥 Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=coyote227&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coyote227&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_color=30363d" />
+
 <br><br>
 
 </div>
