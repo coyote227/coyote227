@@ -3,8 +3,8 @@
   "fileName": "profile-custom-gitblock.svg",
   "backgroundColor": "#0d1117",
   "foregroundColor": "#c9d1d9",
-  "strongColor": "#58a6ff",
+  "strongColor": "#39d353",
   "weakColor": "#8b949e",
-  "radarColor": "#bc8cff",
+  "radarColor": "#39d353",
   "growingAnimation": true
 }
