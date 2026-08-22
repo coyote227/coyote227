@@ -1,11 +1,11 @@
 {
   "type": "bitmap",
   "fileName": "profile-custom-gitblock.svg",
-  "backgroundColor": "#ffffff",
-  "foregroundColor": "#00000f",
-  "strongColor": "#111133",
-  "weakColor": "gray",
-  "radarColor": "#47a042",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#39d353",
+  "weakColor": "#8b949e",
+  "radarColor": "#39d353",
   "growingAnimation": true,
   "contribPatterns": [
     {
