@@ -10,13 +10,13 @@
 
 ## GitHub Metrics
 
-<div align="center">
+</div>
 
-## Streak
+### Streak
 
 <img src="https://streak-stats.demolab.com/?user=coyote227&background=0d1117&border=30363d&stroke=30363d&ring=39d353&fire=ff3b5c&currStreakNum=39d353&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 
-## Contributions
+### Contributions
 
 <img src="./profile-3d-contrib/profile-custom-gitblock.svg" width="100%" alt="3D contribution graph">
 
