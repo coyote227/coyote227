@@ -14,7 +14,7 @@
 
 ### 🔥 Streak
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coyote227&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&border_color=30363d" />
+<img src="./profile-3d-contrib/profile-custom-gitblock.svg" width="100%" alt="3D contribution graph">
 
 <br><br>
 
