@@ -14,7 +14,10 @@
 
 ### Streak
 
-<img src="https://streak-stats.demolab.com/?user=coyote227&background=0d1117&border=30363d&stroke=30363d&ring=2ea043&fire=f85149&currStreakNum=2ea043&sideNums=c9d1d9&currStreakLabel=2ea043&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=coyote227&background=0b1f14&border=166534&stroke=14532d&ring=22c55e&fire=4ade80&currStreakNum=4ade80&sideNums=22c55e&currStreakLabel=4ade80&sideLabels=86efac&dates=86efac&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 ### Contributions
 
