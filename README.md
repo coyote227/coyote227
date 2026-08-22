@@ -4,7 +4,7 @@
 
 ## Today's Goal
 
-**Build Your Own Claude Code — Next Stage**
+**CLaude code project continued**
 
 > Study the tool-calling flow and make meaningful progress.
 
