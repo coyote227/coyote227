@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🔥 Streak
+## Streak
 
 <img src="https://streak-stats.demolab.com/?user=coyote227&theme=tokyonight&hide_border=true" />
 
