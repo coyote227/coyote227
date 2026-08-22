@@ -9,7 +9,7 @@
 > Study the tool-calling flow and make meaningful progress.
 
 ## GitHub Metrics
-
+<!--
 </div>
 
 ### Streak
@@ -20,7 +20,7 @@
 />
 
 ### Contributions
-
+-->
 <img src="./profile-3d-contrib/profile-custom-gitblock.svg" width="100%" alt="3D contribution graph">
 
 </div>
