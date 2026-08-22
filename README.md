@@ -12,8 +12,6 @@
 
 <div align="center">
 
-### 🔥 Streak
-
 <img src="./profile-3d-contrib/profile-custom-gitblock.svg" width="100%" alt="3D contribution graph">
 
 <br><br>
