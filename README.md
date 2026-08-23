@@ -1,7 +1,3 @@
-## 👋 Hey, I'm Kanishka
-
-> I'm a Computer Science student interested in AI, Data Science, software development, and quantum computing. I enjoy building projects, solving problems, and learning new technologies. 
-
 ### Today's Goal
 
 **Claude Code Project**
