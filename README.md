@@ -2,7 +2,7 @@
 
 **Claude Code Project**
 
-> Study the tool-calling flow and make meaningful progress.
+> Study the tool-calling flow.
 
 ## GitHub Metrics
 <!--
