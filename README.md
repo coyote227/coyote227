@@ -2,7 +2,7 @@
 
 **Claude Code Project**
 
-> Study the tool-calling flow.
+> Study JSON and CMAKE
 
 ## GitHub Metrics
 <!--
