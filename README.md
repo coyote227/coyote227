@@ -2,7 +2,7 @@
 
 **Claude Code Project**
 
-> Study JSON and CMAKE
+> Data Visualisation Project 
 
 ## GitHub Metrics
 <!--
