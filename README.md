@@ -2,7 +2,7 @@
 
 **Claude Code Project**
 
-> Data Visualisation Project 
+> Setup CGol - Conveys Game of like 
 
 ## GitHub Metrics
 <!--
