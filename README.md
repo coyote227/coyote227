@@ -2,7 +2,7 @@
 
 **Claude Code Project**
 
-> Setup CGol - Conveys Game of like 
+> DVP website
 
 ## GitHub Metrics
 <!--
