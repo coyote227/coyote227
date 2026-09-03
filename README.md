@@ -2,7 +2,11 @@
 
 **Claude Code Project**
 
-> DVP website
+> Execute Write tool
+
+**Convey's game of life**
+
+> Decide setup 
 
 ## GitHub Metrics
 <!--
