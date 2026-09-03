@@ -4,7 +4,7 @@
 
 > Execute Write tool
 
-**Convey's game of life**
+**Conway's game of life**
 
 > Decide setup 
 
