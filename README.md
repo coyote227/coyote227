@@ -6,7 +6,7 @@
 
 **Conway's game of life**
 
-> Decide setup 
+> Understanding .hpp files
 
 ## GitHub Metrics
 <!--
