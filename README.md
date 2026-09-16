@@ -1,12 +1,12 @@
 ### Today's Goal
 
-**Claude Code Project**
+**Kohler Project**
 
-> Execute Write tool
+> Keep working on the 3d Renderer
 
-**Conway's game of life**
+**DVP Website**
 
-> Understanding .hpp files
+> Make the changes from your end
 
 ## GitHub Metrics
 <!--
