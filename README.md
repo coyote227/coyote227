@@ -1,12 +1,8 @@
 ### Today's Goal
 
-**Kohler Project**
+**ML - RF Project**
 
-> Keep working on the 3d Renderer
-
-**DVP Website**
-
-> Make the changes from your end
+> Work on the CNN part
 
 ## GitHub Metrics
 <!--
