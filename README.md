@@ -1,8 +1,9 @@
 ### Today's Goal
 
-**ML - RF Project**
+**Quantum Compiler Project**
 
-> Work on the CNN part
+> Create the library
+> Create the translator
 
 ## GitHub Metrics
 <!--
