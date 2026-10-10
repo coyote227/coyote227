@@ -1,9 +1,8 @@
 ### Today's Goal
 
-**Quantum Compiler Project**
+**Conway's GOL**
 
-> Create the library
-> Create the translator
+> Game of life - doc, board and start logic on paper
 
 ## GitHub Metrics
 <!--
